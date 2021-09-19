@@ -13,3 +13,5 @@ Run the website from index.html
 - CSS
 - Java Script
 
+## Screenshot:
+![Form](https://user-images.githubusercontent.com/80825073/133931764-cde86fbd-b158-442b-9617-dc84bbcf77a5.JPG)
